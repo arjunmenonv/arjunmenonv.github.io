@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-TO BE REFINED
+Hi There! I am an undergrad from the Electrical Engineering department in IIT Madras. I am passionate about Computer Architecture, Digital VLSI Design and High Performance Computing. I enjoy circuit design in general (both analog and digital) and love playing with signal processing systems. This webpage is mainly intended as an informal exercise for me to express my thoughts and share interesting ideas, primarily from my fields of interest. I believe such an exercise will help me keep track of trends in these domains.
 
-Hi There! I am an undergrad in the Electrical Engineering department at IIT Madras. My interests include Circuit Design and System Implementation with special focus on digital design using FPGAs, and circuit design for domains such as Deep Learning and Communication Systems. 
-
-I am inherently curious about the mysteries of our universe, and hence I am passionate about modelling systems (scientific method) and implementing them (engineering approach). Apart from STEM, I enjoy listening to rock, heavy metal and Carnatic music, with some of my favourite rock artists being Iron Maiden, Pink Floyd and Slash.
-
-I grew up for the most part in the wonderful city of Bangalore (don't worry, I won't talk about Bangalore's weather or traffic here). I can speak English, Malayalam and Hindi. Tamil konjam konjam theriyum and Kannada gothilla.
+I grew up for the most part in Bangalore (don't worry, I am not here to talk about Bangalore's weather, tech culture or how bad the traffic at Silk Board Jn was this morning). I can think in English, Malayalam and in the Frequency Domain, and speak Hindi and Time Domain. Tamil konjam-konjam theriyum and Kannada gothilla. 
